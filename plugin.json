@@ -1,6 +1,7 @@
 {
     "name": "Purity Theme",
     "version": "1.0",
+    "type": "theme",
     "author": "Lican Huang",
     "description": "A minimal, clean starter theme for yvsou-cms."
 }
